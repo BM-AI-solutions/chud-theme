@@ -11,7 +11,16 @@
 		"sideBar.foreground": "#ff0000",
 		"menu.background": "#262525",
 		"statusBar.background": "#ccbe00",
-		"menu.foreground": "#cccccc"
+		"menu.foreground": "#cccccc",
+		"terminal.ansiBlack": "#000000",
+		"terminal.ansiBlue": "#2472c8",
+		"terminal.ansiBrightGreen" :"#d12323",
+		"terminal.ansiGreen": "#bc0d0d",
+		"terminal.ansiBrightBlack": "#666666",
+		"terminal.ansiRed": "#cd31b3",
+		"terminal.background": "#1d0101",
+		"terminal.ansiBrightBlue": "#3b8eea",
+		"terminal.ansiBrightRed":"#eb4cf1"
 	},
 	"tokenColors": [
 		{
