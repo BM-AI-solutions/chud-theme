@@ -2,9 +2,16 @@
 	"name": "chud-theme",
 	"colors": {
 		"editor.background": "#000000",
-		"editor.foreground": "#ffffff",
-		"activityBarBadge.background": "#fffb00",
-		"sideBarTitle.foreground": "#ff0000"
+		"editor.foreground": "#ff0000",
+		"activityBar.background": "#000000",
+		"activityBar.foreground": "#ff0000",
+		"activityBarBadge.background": "#ff0000",
+		"sideBarTitle.foreground": "#ff0000",
+		"sideBar.background": "#000000",
+		"sideBar.foreground": "#ff0000",
+		"menu.background": "#262525",
+		"statusBar.background": "#ccbe00",
+		"menu.foreground": "#cccccc"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +22,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#7a5454"
+				"foreground": "#797878"
 			}
 		},
 		{
@@ -55,7 +62,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#ea9292"
+				"foreground": "#e5ff00"
 			}
 		},
 		{
@@ -75,7 +82,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ff8989"
+				"foreground": "#eeff00"
 			}
 		},
 		{
@@ -86,7 +93,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ffe600"
 			}
 		},
 		{
@@ -108,7 +115,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07171"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -118,7 +125,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07171"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -134,7 +141,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#f76c6c"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -149,7 +156,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#e88d8d"
+				"foreground": "#e8e28d"
 			}
 		},
 		{

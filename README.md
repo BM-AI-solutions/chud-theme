@@ -1,16 +1,31 @@
-# chud-theme README
+# Chud theme for [Visual Studio Code](http://code.visualstudio.com)
 
-## Working with Markdown
+> A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Screenshot](./chudthemesc.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Install
 
-## For more information
+Install the extension at [Chud theme](https://marketplace.visualstudio.com/items?itemName=jeffstein.chud-theme).
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Team
 
-**Enjoy!**
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/BM-AI-solutions/chud-theme/graphs/contributors).
+
+[![Jeffstein](https://imageproxy.ifunny.co/crop:square/user_photos/16017340b18e7f6b68eb118918dd65590898f68e_0.jpg)](https://github.com/BM-AI-solutions) |
+:---: |
+[Menacing American Patriot](https://github.com/BM-AI-solutions) |
+
+## Community
+
+* [iFunny](https://ifunny.co/user/Jeffstein) - Best for getting updates about themes and new stuff.
+* [GitHub](https://github.com/BM-AI-solutions/chud-theme/discussions) - Best for asking questions and discussing issues.
+* [Discord](https://discord.gg/MAPg9eV9Ed) - Best for hanging out with the community.
+
+## Contributing
+
+If you'd like to contribute to this theme, please read the [contributing guidelines](./.github/CONTRIBUTING.md).
+
+## License
+
+[Apache 2.0 License](./LICENSE)
