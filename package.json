@@ -9,6 +9,7 @@
   "categories": [
     "Themes"
   ],
+  "publisher": "jeffstein",
   "repository": {"url": "https://github.com/BM-AI-solutions/chud-theme.git"},
   "contributes": {
     "themes": [
