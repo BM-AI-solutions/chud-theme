@@ -1,0 +1,21 @@
+{
+  "name": "chud-theme",
+  "displayName": "chud theme",
+  "description": "color theme for chuds",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "chud-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chud-theme-color-theme.json"
+      }
+    ]
+  }
+}
