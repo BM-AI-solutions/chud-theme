@@ -9,7 +9,6 @@
   "categories": [
     "Themes"
   ],
-  "license":"Apache-2.0",
   "repository": {"url": "https://github.com/BM-AI-solutions/chud-theme.git"},
   "contributes": {
     "themes": [
