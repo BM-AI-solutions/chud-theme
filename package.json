@@ -2,7 +2,7 @@
   "name": "chud-theme",
   "displayName": "chud theme",
   "description": "color theme for chuds",
-  "version": "6.3.0",
+  "version": "6.4.0",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.101.0"
